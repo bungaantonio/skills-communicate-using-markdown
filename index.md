@@ -15,3 +15,10 @@
 ``` java
   System.out.println("GitHub");
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Step one of markdown
+- [x] Step two of markdown
+- [ ] Step three of markdown
